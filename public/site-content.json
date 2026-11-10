@@ -1,0 +1,24 @@
+{
+  "savedAt": "2026-11-10T18:37:56.489Z",
+  "content": {
+    "hero": {
+      "greeting": "Hi, I'm Aditya.",
+      "locationBadge": "Caldas da Rainha, Portugal · Stanford OHS",
+      "description": "I'm a student in Caldas da Rainha, Portugal. I start community projects, build small things for the environment, study economics, and write.",
+      "ctaText": "A bit more about me"
+    }
+  },
+  "artworks": {
+    "art-1": {
+      "title": "Study of the Tornada River Basin",
+      "medium": "Watercolor & India ink on cold-press paper",
+      "year": "2025",
+      "dimensions": "42 × 59 cm"
+    }
+  },
+  "leveSrc": "/src/assets/images/leve_community.jpg",
+  "rowbotSrc": "/src/assets/images/rowbot_buoy.jpg",
+  "portraitSrc": "/src/assets/images/aditya_portrait.jpg",
+  "certUploads": null,
+  "artUploads": null
+}
